@@ -13,15 +13,16 @@
 ![Overview](screenshots/overview.png)
 
 ### Page 2 — Late Delivery Analysis
+<img width="1082" height="606" alt="late devilery analysis" src="https://github.com/user-attachments/assets/1d20f7ac-cee6-4c91-b818-022e9a07e6cd" />
 
-![Late Delivery]([screenshots/late delivery analysis.png)](https://github.com/KirtanPatel18/supply-chain-powerbi-dashboard/blob/main/screenshots/late%20devilery%20analysis.png)
 
 ### Page 3 — Supplier Risk
-https://github.com/KirtanPatel18/supply-chain-powerbi-dashboard/blob/main/screenshots/supplier%20risk.png
+<img width="1101" height="622" alt="supplier risk" src="https://github.com/user-attachments/assets/6aa34d53-fc68-4926-9d84-ab4007405e1d" />
+
 
 ### Page 4 — Demand Forecast
+<img width="1072" height="616" alt="Demand Forecast" src="https://github.com/user-attachments/assets/e151dd5f-205e-4076-8281-5a5b326b1ff9" />
 
-![Demand Forecast](screenshots/Demand Forecast.png)
 
 ---
 
