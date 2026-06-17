@@ -22,7 +22,7 @@
 
 ### Page 4 — Demand Forecast
 
-![Demand Forecast](screenshots/Demand_forecast.png)
+![Demand Forecast](screenshots/Demand forecast.png)
 
 ---
 
