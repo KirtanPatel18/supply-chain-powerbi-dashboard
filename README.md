@@ -18,7 +18,7 @@
 
 ### Page 3 — Supplier Risk
 
-![Supplier Risk](screenshots/supplier_risk.png)
+[![Supplier Risk](screenshots/supplier_risk.png)](https://github.com/KirtanPatel18/supply-chain-powerbi-dashboard/blob/main/screenshots/supplier%20risk.png)]
 
 ### Page 4 — Demand Forecast
 
