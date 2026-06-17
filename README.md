@@ -14,7 +14,7 @@
 
 ### Page 2 — Late Delivery Analysis
 
-![Late Delivery](screenshots/late delivery analysis.png)
+![Late Delivery]([screenshots/late delivery analysis.png)](https://github.com/KirtanPatel18/supply-chain-powerbi-dashboard/blob/main/screenshots/late%20devilery%20analysis.png)
 
 ### Page 3 — Supplier Risk
 
