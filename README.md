@@ -10,19 +10,19 @@
 
 ### Page 1 — Overview
 
-![Overview](screenshots/01_overview.png)
+![Overview](screenshots/overview.png)
 
 ### Page 2 — Late Delivery Analysis
 
-![Late Delivery](screenshots/02_late_delivery.png)
+![Late Delivery](screenshots/late delivery analysis.png)
 
 ### Page 3 — Supplier Risk
 
-![Supplier Risk](screenshots/03_supplier_risk.png)
+![Supplier Risk](screenshots/supplier_risk.png)
 
 ### Page 4 — Demand Forecast
 
-![Demand Forecast](screenshots/04_demand_forecast.png)
+![Demand Forecast](screenshots/Demand_forecast.png)
 
 ---
 
